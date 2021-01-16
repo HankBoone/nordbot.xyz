@@ -7,24 +7,24 @@
 <br></br>
 <h2>Table of Contents</h2>
 <ul>
-<li>About</li>
-  <li>Team</li>
-  <li>Documentation</li>
+  <li><a href="https://github.com/HankBoone/nordbot.xyz#About">About</a></li>
+  <li><a href="https://github.com/HankBoone/nordbot.xyz#Team">Team</a></li>
+  <li><a href="https://github.com/HankBoone/nordbot.xyz#Documentation">Documentation</a></li>
 </ul>
 
 <br>
-<h3>About</h3>
+<h3>#About</h3>
 <p>A bot to rule them all. A multifaceted, robust bot to help manage your server!</p>
 
 <br>
-<h3>Team</h3>
+<h3>#Team</h3>
 <ul>
   <li>HankBoone#0064  |  Owner and Lead Developer</li>
   <li>Waterslide56#7794  |  Moderator</li>
   </ul>
 
 <br>
-<h3>Documentation</h3>
+<h3>#Documentation</h3>
 <h4>Moderation</h4>
 <ul>
   <li>+mod  |  Moderation screen</li>
