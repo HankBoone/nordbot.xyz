@@ -15,6 +15,14 @@
 <br>
 <h3>About</h3>
 <p>A bot to rule them all. A multifaceted, robust bot to help manage your server!</p>
+<br>
+<h3>NordBot v0.2.5 Features:</h3>
+<li>Customisable prefix.</li>
+<li>Set welcome channel.</li>
+<li>Set announcements channel.</li>
+<li>Ban, kick, and mute those feisty members.</li>
+<li>Listen to your favorite beats on your way to build the best server.</li>
+<li>Play some games. More and more are being added every week!</li>
 
 <br>
 <h3>Team</h3>
