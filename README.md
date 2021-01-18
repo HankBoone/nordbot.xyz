@@ -8,6 +8,7 @@
 <h3>About</h3>
 <p>A bot to rule them all. A multifaceted, robust bot to help manage your server!</p>
 <br>
+
 <br>
 <h3>NordBot v0.2.5 Features:</h3>
 <li>Customisable prefix.</li>
@@ -17,13 +18,14 @@
 <li>Listen to your favorite beats on your way to build the best server.</li>
 <li>Play some games. More and more are being added every week!</li>
 
-<br></br>
+<br>
 <h2>Table of Contents</h2>
 <ul>
   <li><a href="https://github.com/HankBoone/nordbot.xyz#About">About</a></li>
   <li><a href="https://github.com/HankBoone/nordbot.xyz#Team">Team</a></li>
   <li><a href="https://github.com/HankBoone/nordbot.xyz#Documentation">Documentation</a></li>
 </ul>
+
 
 <br>
 <h3>Team</h3>
@@ -61,6 +63,7 @@
 <br>
 <h4>Fun</h4>
 <ul>
+  <li>+fun  |  Fun screen</li>
   <li>+roll  |  Roll the dice!</li>
   <li>+mine  |  Play Minesweeper</li>
   <li>+battleship  |  Sink the carrier!</li>
@@ -69,3 +72,44 @@
   <li>+flags  |  Guess the flag</li>
   <li>+speed  |  Quick! Type the word</li>
   </ul>
+  
+<br>
+<h4>Image</h4>
+<ul>
+  <li>+image  |  Image screen</li>
+  <li>+woof  |  Random dog breeds</li>
+  <li>+meme  |  Random meme generator</li>
+  <li>+covid  <days>  |  Covid graph</li>
+  </ul>
+  
+<br>
+<h4>Misc</h4>
+<ul>
+  <li>+misc  |  misc screen</li>
+  <li>+vote  |  Vote for us!</li>
+  <li>+suggest  |  Suggest features</li>
+  </ul>
+
+<br>
+<h4>Music</h4>
+<ul>
+  <li>+music  |  Music screen</li>
+  <li>+play  |  Roll the dice!</li>
+  <li>+pause  |  Play Minesweeper</li>
+  <li>+skip  |  Sink the carrier!</li>
+  <li>+join  |  Play Connect4</li>
+  <li>+stop  |  Dont forget to feed him</li>
+  <li>+resume  |  Guess the flag</li>
+  </ul>
+  
+<br>
+<h4>Economy</h4>
+<ul>
+  <li>+eco  |  Economy screen</li>
+  <li>+bal  |  Vote for us!</li>
+  <li>+work  |  Suggest features</li>
+  </ul>
+  
+<br>
+<h4>Levels</h4>
+<h5>Coming soon!</h5>
