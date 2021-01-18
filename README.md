@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/793945559647649802/800624648877899856/NordBotBanner.png" width="750px" alt="NordBot Logo"><h1>NordBot</h1>
+<img src="https://cdn.discordapp.com/attachments/793945559647649802/800624648877899856/NordBotBanner.png" width="1000px" alt="NordBot Logo"><h1>NordBot</h1>
 
 <a href='https://discord.com/oauth2/authorize?client_id=794099208411283457&scope=bot&permissions=1946152543'>Invite NordBot to your team!</a> | 
 <a href='https://discord.gg/mmbGNPUtAk'>Support Server</a>
