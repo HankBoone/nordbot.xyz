@@ -4,17 +4,10 @@
 <a href='https://discord.gg/mmbGNPUtAk'>Support Server</a>
 <br>Developed by HankBoone#0064
 <br></br>
-<br></br>
-<h2>Table of Contents</h2>
-<ul>
-  <li><a href="https://github.com/HankBoone/nordbot.xyz#About">About</a></li>
-  <li><a href="https://github.com/HankBoone/nordbot.xyz#Team">Team</a></li>
-  <li><a href="https://github.com/HankBoone/nordbot.xyz#Documentation">Documentation</a></li>
-</ul>
-
 <br>
 <h3>About</h3>
 <p>A bot to rule them all. A multifaceted, robust bot to help manage your server!</p>
+<br>
 <br>
 <h3>NordBot v0.2.5 Features:</h3>
 <li>Customisable prefix.</li>
@@ -23,6 +16,14 @@
 <li>Ban, kick, and mute those feisty members.</li>
 <li>Listen to your favorite beats on your way to build the best server.</li>
 <li>Play some games. More and more are being added every week!</li>
+
+<br></br>
+<h2>Table of Contents</h2>
+<ul>
+  <li><a href="https://github.com/HankBoone/nordbot.xyz#About">About</a></li>
+  <li><a href="https://github.com/HankBoone/nordbot.xyz#Team">Team</a></li>
+  <li><a href="https://github.com/HankBoone/nordbot.xyz#Documentation">Documentation</a></li>
+</ul>
 
 <br>
 <h3>Team</h3>
